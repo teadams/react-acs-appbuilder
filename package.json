@@ -11,7 +11,7 @@
     "@material-ui/lab": "^4.0.0-alpha.50",
     "@material-ui/pickers": "^3.2.10",
     "@types/react": "^16.9.34",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "classnames": "^2.2.6",
     "date-fns": "^2.12.0",
     "google-maps-react": "^2.0.6",
